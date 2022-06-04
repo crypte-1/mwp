@@ -6,6 +6,6 @@ import "hardhat/console.sol";
 
 contract GreetPortal {
     constructor() {
-        console.log("Yo yo, I am a contract and I am smart");
+        console.log("Yo yo, I am a Smart-contract and Welcome to GreetPortal");
     }
 }
